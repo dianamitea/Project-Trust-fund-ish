@@ -1,0 +1,9 @@
+F:\Diana\Business Informatics\Fintech\Project Trust fund-ish\legacy-lock\target\debug\deps\wasmprinter-d9a16fce6eb5f9bf.d: C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\lib.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\component.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\operand_stack.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\operator.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\print.rs
+
+F:\Diana\Business Informatics\Fintech\Project Trust fund-ish\legacy-lock\target\debug\deps\libwasmprinter-d9a16fce6eb5f9bf.rmeta: C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\lib.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\component.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\operand_stack.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\operator.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\print.rs
+
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\lib.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\component.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\operand_stack.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\operator.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\wasmprinter-0.245.1\src\print.rs:

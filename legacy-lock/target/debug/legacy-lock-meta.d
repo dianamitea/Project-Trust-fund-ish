@@ -1,0 +1,1 @@
+F:\Diana\Business\ Informatics\Fintech\Project\ Trust\ fund-ish\legacy-lock\target\debug\legacy-lock-meta.exe: F:\Diana\Business\ Informatics\Fintech\Project\ Trust\ fund-ish\legacy-lock\meta\src\main.rs F:\Diana\Business\ Informatics\Fintech\Project\ Trust\ fund-ish\legacy-lock\src\legacy_lock.rs

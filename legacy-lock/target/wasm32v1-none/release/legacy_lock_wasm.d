@@ -1,0 +1,1 @@
+\\?\F:\Diana\Business\ Informatics\Fintech\Project\ Trust\ fund-ish\legacy-lock\target\wasm32v1-none\release\legacy_lock_wasm.wasm: F:\Diana\Business\ Informatics\Fintech\Project\ Trust\ fund-ish\legacy-lock\src\legacy_lock.rs F:\Diana\Business\ Informatics\Fintech\Project\ Trust\ fund-ish\legacy-lock\wasm\src\lib.rs

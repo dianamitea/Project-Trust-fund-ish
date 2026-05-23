@@ -1,0 +1,9 @@
+F:\Diana\Business Informatics\Fintech\Project Trust fund-ish\legacy-lock\target\debug\deps\convert_case-28f79f35e7e272bf.d: C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\lib.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\boundary.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\case.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\converter.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\pattern.rs
+
+F:\Diana\Business Informatics\Fintech\Project Trust fund-ish\legacy-lock\target\debug\deps\libconvert_case-28f79f35e7e272bf.rmeta: C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\lib.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\boundary.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\case.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\converter.rs C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\pattern.rs
+
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\lib.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\boundary.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\case.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\converter.rs:
+C:\Users\diana\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\convert_case-0.11.0\src\pattern.rs:
