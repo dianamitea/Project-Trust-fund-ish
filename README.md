@@ -26,3 +26,4 @@ The smart contract exposes the following primary endpoints:
 
 2) withdraw: Validates the caller's address against the stored lock record and checks the current block timestamp. If the unlock time has passed, it releases the locked xEGLD back to the caller's wallet.
 
+Team Members for the project : Mitea Diana-Maria & Farcas Andrei-Alexandru 
